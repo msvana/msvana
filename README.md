@@ -1,16 +1,16 @@
-### Hi there 👋
+# Quick facts about me
 
-<!--
-**msvana/msvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 PhD candidate at the [VSB -Technical University of Ostrava - Faculty of Economics](https://www.ekf.vsb.cz/cs/)
+🔬 Researching how sentiment analysis and topic modeling can help municipal governments help make better decisions
+💻 Part of a tech research team at [profiq](https://www.profiq.com/)
+📖 I like to read, mainly sci-fi and non-fiction
+📚 Interested in far too much stuff: computer science, economics, psychology, philosophy, management, decision making, ...
+🔭 My lifelong mission is to learn about the world and share this knowledge with others (subject to change)
 
-Here are some ideas to get you started:
+# Favorite tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- JavaScript
+- TypeScript
+- Linux
+- Machine Learning
