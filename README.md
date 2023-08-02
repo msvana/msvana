@@ -15,7 +15,7 @@
 - Linux
 - Machine Learning
 
-## Reach me at
+## Wanna talk?
 
 - Twitter: [@MilosSvana](https://twitter.com/MilosSvana)
 - E-mail: [milos.svana@mailfence.com](mailto:milos.svana@mailfence.com)
