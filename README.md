@@ -14,3 +14,8 @@
 - TypeScript
 - Linux
 - Machine Learning
+
+## Reach me at
+
+- [@MilosSvana](https://twitter.com/MilosSvana) on Twitter
+- [milos.svana@mailfence.com](mailto:milos.svana@mailfence.com)
