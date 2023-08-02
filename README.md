@@ -17,5 +17,5 @@
 
 ## Reach me at
 
-- [@MilosSvana](https://twitter.com/MilosSvana) on Twitter
-- [milos.svana@mailfence.com](mailto:milos.svana@mailfence.com)
+- Twitter: [@MilosSvana](https://twitter.com/MilosSvana)
+- E-mail: [milos.svana@mailfence.com](mailto:milos.svana@mailfence.com)
