@@ -7,14 +7,6 @@
 - 📚 Interested in far too much stuff: computer science, economics, psychology, philosophy, management, decision making, ...
 - 🔭 My lifelong mission is to learn about the world and share this knowledge with others (subject to change)
 
-## Favorite tech
-
-- Python
-- JavaScript
-- TypeScript
-- Linux
-- Machine Learning
-
 ## Wanna talk?
 
 - Twitter: [@MilosSvana](https://twitter.com/MilosSvana)
