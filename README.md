@@ -7,6 +7,7 @@
 - 📚 Interested in far too much stuff: computer science, economics, psychology, philosophy, management, decision making, ...
 - 🔭 My lifelong mission is to learn about the world and share this knowledge with others (subject to change)
 
+<!--
 ## HW/SW specs
 
 I am pretty conservative when it comes to buying tech. As long as it works ...
@@ -27,6 +28,7 @@ I am pretty conservative when it comes to buying tech. As long as it works ...
   - JetBrains IDEs with Vim bindings for larger projects
   - Neovim for smaller projects
   - Jupyter Lab for notebooks
+-->
 
 ## Wanna get in touch?
 
